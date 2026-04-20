@@ -1,0 +1,9 @@
+# Large data files
+Data/*.csv
+
+# Mac system files
+__MACOSX/
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
