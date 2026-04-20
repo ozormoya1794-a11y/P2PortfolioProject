@@ -1,13 +1,14 @@
 # Fraud Detection on Financial Transactions - Data Analytics Portfolio
 
 **Author:** Ozor Moya 
+
 **Date:** 04/19/2026
 
 ---
 
 ## Project Overview
 
-This project builds a **fraud detection system** for mobile money transactions using the PaySim synthetic dataset. Starting from 6.36 million transactions, a complete data science workflow was applied — from exploratory data analysis through feature engineering to model development and evaluation.
+This project builds a **fraud detection system** for money transactions using the synthetic dataset. Starting from 6.36 million transactions, a complete data science workflow was applied — from exploratory data analysis through feature engineering to model development and evaluation.
 
 The core challenge is detecting fraudulent transactions that represent only **0.129%** of all activity — a severe class imbalance that makes traditional accuracy metrics misleading and requires careful model design.
 
@@ -23,11 +24,11 @@ P2PortfolioProject/
 │   └── 03_model.ipynb          # Model Training, Tuning & Evaluation
 ├── Data/
 │   ├── PS_20174392719_1491204439457_log.csv   # Raw dataset
-│   └── model_ready.csv                         # Cleaned dataset
+│   └── model_ready.csv                        # Cleaned dataset
 ├── Docs/
 │   └── *.png                   # EDA visualizations
 ├── report/
-│   └── report.md               # Written answers to project questions
+│   └── report.md               # Answers to TLAB questions
 └── README.md
 ```
 
